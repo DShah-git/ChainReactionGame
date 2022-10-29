@@ -1,0 +1,17 @@
+cell-data 
+{
+	hold : 1,2,3
+	influence : cells next to it, fixed, 
+	type: corner,edge,middle,
+	currentColor: 	
+}
+
+
+
+turn-data:
+{
+	currentColor: 
+}
+
+
+
