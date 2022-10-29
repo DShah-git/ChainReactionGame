@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Chain reaction is turn based grid game. Objective is to expand and take over other players' grid using game mechanics. Win by eliminating all other players.
 
 ## Available Scripts
 
